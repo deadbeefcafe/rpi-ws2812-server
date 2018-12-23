@@ -45,4 +45,3 @@ Temporary Items
 #executable / objects:
 *.o
 *.elf
-ws2812svr
